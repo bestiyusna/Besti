@@ -6,6 +6,8 @@ int main(){
 	double Luasrumah = 42;
 	double lantaipkt = 193*1215;
 	double luas1box = lantaipkt*8/1000000;
-	double biayapkt, biayapsg, totalb;
+	double jumlahboxp, biayapkt, biayapsg, totalb;
+	
+	cout <<"Luas Rumah		:"<<Luasrumah<<" m2"<<endl;
 	
 }
